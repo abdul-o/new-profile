@@ -1,5 +1,5 @@
 # Stage 0 – Profile Card Project
-This project is Stage 0 Frontend Challenge for HNG 13 Internship.  
+This project is Stage 1 Frontend Challenge for HNG 14 Internship.  
 It is a small, accessible, and responsive Profile Card component built using semantic HTML, modern CSS (Flexbox), and vanilla JavaScript.
 
 ## Hosted link
