@@ -1,9 +1,9 @@
-# Stage 0 – Profile Card Project
+# Stage 1 – Profile Card Project
 This project is Stage 1 Frontend Challenge for HNG 14 Internship.  
 It is a small, accessible, and responsive Profile Card component built using semantic HTML, modern CSS (Flexbox), and vanilla JavaScript.
 
 ## Hosted link
-https://abdul-o.github.io/profile-card/
+https://abdul-o.github.io/new-profile/
 
 ##  Features
 - Semantic HTML structure (`article`, `section`, `nav`, `figure`)
